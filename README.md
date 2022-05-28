@@ -6,6 +6,8 @@
 
 ---
 Theo dõi tôi
-- [Youtube Channel: Unitop Học web đi làm](https://unitop.com.vn/yt)
+- [Youtube: Unitop - Học web đi làm](https://unitop.com.vn/yt)
+- [Youtube: Phan Văn Cương - Học web đi làm](https://youtube.com/phancuong100)
+
 - [Blog: unitop.com.vn](https://unitop.com.vn)
 - [Tặng ebook miễn phí](https://unitop.com.vn/free)
