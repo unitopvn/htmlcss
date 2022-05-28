@@ -1,4 +1,4 @@
-# Hướng dẫn học html css
+# Source Html Css Tutorial Unitop.vn
 1. [Input Gmail](https://unitopvn.github.io/htmlcss/tutorial/input-gmail/?target=_blank)
 2. [Modal](https://unitopvn.github.io/htmlcss/tutorial/modal/)
 3. [Hiển thị danh sách bài viết](https://unitopvn.github.io/htmlcss/tutorial/show-list-post/)
@@ -11,4 +11,3 @@ Theo dõi tôi
 
 - [Blog: unitop.com.vn](https://unitop.com.vn)
 - [Tặng ebook miễn phí](https://unitop.com.vn/free)
-- <a href="http://example.com/" target="_blank">Hello, world!</a>
